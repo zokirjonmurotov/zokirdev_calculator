@@ -1,6 +1,5 @@
 const menu = document.querySelector(".calc-menu"),
   clear = document.querySelector(".cls"),
-  modul = document.querySelector(".modul"),
   calcBtns = document.querySelectorAll(".calc-btn"),
   equal = document.querySelector(".equal");
 calcBtns.forEach((item) => {
